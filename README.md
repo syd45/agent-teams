@@ -4,10 +4,15 @@
 
 ---
 
-## 🙏 特别鸣谢
+## 🙏 特别鸣谢 / Acknowledgments
 
-本项目翻译自 **[Michael Sitarzewski](https://github.com/msitarzewski)** 的开源项目  
+**中文**：本项目翻译自 **[Michael Sitarzewski](https://github.com/msitarzewski)** 的开源项目  
 **原仓库**：[https://github.com/msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
+**English**: This project is a Chinese translation of the open-source project by **[Michael Sitarzewski](https://github.com/msitarzewski)**.  
+**Original Repository**: [https://github.com/msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
+Special thanks to the original author and all community contributors for their excellent work!
 
 ---
 
